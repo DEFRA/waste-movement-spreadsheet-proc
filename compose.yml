@@ -39,7 +39,7 @@ services:
 
   ################################################################################
 
-  cdp-node-backend-template:
+  waste-movement-spreadsheet-proc:
     build:
       context: .
       target: development
